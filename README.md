@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Ali</h1>
+<h1 align="center">Hi, I'm Muhammed Ali</h1>
 <h3 align="center">A Hardworking Developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Nessus Automation for Pentest Reports**
