@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [github.com/Maliplt](github.com/Maliplt)
 
-- ⚡ Fun fact **AI's are loves me...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
